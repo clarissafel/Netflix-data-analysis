@@ -6,12 +6,12 @@
 <br/>To analyze the Netflix catalogue to uncover strategic insights about its content library, such as genre trends, country-wise content focus, platform growth over time, and duration patterns, and to provide actionable recommendations.
 
 📊 Dataset
-Source: [Kaggle Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-Size: ~8,800 rows
-Features: Title, Type, Genre, Country, Date Added, Duration, Rating, etc.
+<br/>Source: [Kaggle Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+<br/>Size: ~8,800 rows
+<br/>Features: Title, Type, Genre, Country, Date Added, Duration, Rating, etc.
 
 💼 Business Context
-Netflix is a major streaming platform competing globally. Understanding the trends in its content can help inform strategic decisions such as:
+<br/>Netflix is a major streaming platform competing globally. Understanding the trends in its content can help inform strategic decisions such as:
 - What content to invest in (e.g., more drama, shorter content, more regional titles)?
 - What markets are growing?
 - How content strategy has changed over the years?
