@@ -3,7 +3,7 @@
 ![netflix-logo](https://github.com/user-attachments/assets/136aeefe-b5cf-4582-acde-a7883d1bae85)
 
 🧠 Project Goal:
-\\n To analyze the Netflix catalogue to uncover strategic insights about its content library, such as genre trends, country-wise content focus, platform growth over time, and duration patterns, and to provide actionable recommendations.
+\n To analyze the Netflix catalogue to uncover strategic insights about its content library, such as genre trends, country-wise content focus, platform growth over time, and duration patterns, and to provide actionable recommendations.
 
 📊 Dataset
 Source: [Kaggle Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
